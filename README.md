@@ -10,4 +10,4 @@ All data is input through a CSV, and follows the format:
 
 City_Name, Dist1, Dist2,,
 
-The relationship of the cities is determined by the user, simply ensure that they all network together in the desired manner.
+The relationship of the cities is determined by the user, simply ensure that they all network together in the desired manner. This application utilizes Java Swing, and JDesktop. Please make sure both of these libraries are in the project path. If neither are required, simply disable the visualizer by removing the Mapper class.
